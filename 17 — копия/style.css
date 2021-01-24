@@ -1,0 +1,205 @@
+* {
+    margin: 0 auto;
+}
+
+
+.header {
+    width: 100%;
+    height: 750px;
+    background: url('../17/img/Изготовление-сайта-900x450.jpg');
+    margin: 0 auto;
+}
+.box1 {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    width: 1171px;
+    height: 100px;
+    align-items: center;
+}
+.kar {
+    margin-right: 30px;
+}
+.h1 {
+    width: 100%;
+    height: 100%;
+    background-color: #2B2E4A;
+    opacity: 0.9;
+}
+.kar1 {
+    position: relative;
+    top: 256px;
+    left: 540px;
+}
+.kar2 {
+    display: block;
+    align-items: center;
+    position: relative;
+    top: 300px;
+    
+}
+a {
+    text-decoration: none;
+    font-size: 15px;
+    position: relative;
+    border-radius: 6px;
+    padding: 20px 20px;
+    left: 800px;
+    top: 400px;
+    height: 20px;
+    width:205;
+    color: white;
+    background-color:#E84545;
+}
+.features {
+    width: 1076px;
+    height: 448px;
+   
+    margin-top: 119PX;
+    margin-left: 320px;
+}
+.features1 {
+    display: flex;
+    width: 1076px;
+    height: 187px;
+    
+    
+}
+.pic1 {
+    margin: 0;
+    width: 296px;
+    height: 186px;
+}    
+  {
+    margin-left: 90px;
+    margin-right: 90px;
+    width: 296px;
+    height: 186px;
+    
+}
+.pic3 {
+    margin: 0;
+    width: 296px;
+    height: 187px;
+    
+}
+.features2 {
+    display: flex;
+    margin-top: 65px;
+    width: 1076px;
+    height: 187px;
+    
+    
+}
+.pic4 {
+    margin: 0;
+    width: 296px;
+    height: 186px;
+     
+}
+.pic5 { 
+    
+    margin-left: 90px;
+    margin-right: 90px;
+    width: 296px;
+    height: 186px;
+    
+}
+.pic6 {
+    margin: 0;
+    width: 296px;
+    height: 187px;
+    
+}
+.k {
+    width: 370px;
+    height: 250px;
+}
+.sidebar {
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    padding: 80px;
+}
+.sidebar2 {
+    width: 100%;
+    margin: 0 auto;
+
+}
+.sid {
+    width: 80%;
+    margin-right: 50px;
+}
+.k2 {
+    width: 200px;
+    margin-right: 70px;
+}
+.sidebar3 {
+    background-color: #53354A;
+    width: 100%;
+    height: 500px;
+}
+.k3 {
+    height: 500px;
+}
+.k4 {
+    margin-bottom: 250px;
+    margin-left: 40px;
+}
+.k5 {
+    position: relative;
+   bottom: 200px;
+    right: 500px;
+}
+.download {
+    width: 100%;
+    height: 300px;
+
+}
+.d {
+    margin-top: 80px;
+    height: 140px;
+    margin-left: 550px;
+   
+}
+.footer {
+    width: 100%;
+    height: 250px;
+    background-color: #3A3E64;
+
+}
+.foooter {
+    display: flex;
+    margin-left: 200px;
+}
+.footer1 {
+    margin-top: 80px;
+    
+}
+.footer2 {
+    margin-left: 30px;
+    margin-top: 70px;
+}
+.footer3 {
+    margin-left: 0;
+    margin-top: 70px;
+}
+.l {
+    width: 120px;
+    height: 50px;
+}
+.s {
+    width: 130px;
+    height: 60px;
+}
+.a {
+    width: 250px;
+    height: 70px;
+}
+
+
+
+
+
+    
+    
